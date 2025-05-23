@@ -1,0 +1,5 @@
+CONTENTDM_URL = 'https://serverXXXXX.contentdm.oclc.org'
+USERNAME = ''
+PASSWORD = ''
+LICENSE = ''
+WSDL = 'https://www.oclc.org/content/dam/community/CONTENTdm/downloads-addons/CatcherService.xml'
